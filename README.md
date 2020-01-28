@@ -20,7 +20,7 @@ The ribbon cable on the PCB has pin numbered from 1 to 12. The pinout is as foll
 12 GND
 
 Here is an example of a board that can be used to interface with arduino:
-![Screenshot](https://raw.githubusercontent.com/0zoon0/xerox_phaser_6600_lcd/master/images/board1.jpg)
-![Screenshot](https://raw.githubusercontent.com/0zoon0/xerox_phaser_6600_lcd/master/images/board2.jpg)
+![Screenshot](https://raw.githubusercontent.com/0zoon0/xerox_phaser_6600_lcd/master/images/board1.JPG)
+![Screenshot](https://raw.githubusercontent.com/0zoon0/xerox_phaser_6600_lcd/master/images/board2.JPG)
 
 The arduino code can be found in xerox_phaser_6600_lcd.ino file.
